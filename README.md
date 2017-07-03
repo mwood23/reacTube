@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/mwood23/reacTube.git
-> cd ReduxSimpleStarter
+> cd reacTube
 > npm install
 > npm start
 ```
